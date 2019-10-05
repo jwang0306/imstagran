@@ -1,4 +1,4 @@
-# instagram-clone-flutter
+# Imstagran
 
 A clone of Instagram using Flutter framework. 
 
