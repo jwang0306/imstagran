@@ -2,7 +2,7 @@
 
 A clone of Instagram using Flutter framework. 
 
-Note that this repo only provide the code, it is NOT a standalone project! The complete code is included in the ```lib/``` folder.
+Note that this repo only provide the code, it is NOT a standalone project! The complete code is included in the ```lib/``` folder. The related api keys such as google map api are removed due to charging factor, feel free to create your own one.
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ The current used packages and settings can be seen in the ```pubspec.yaml``` fil
 
 ## Usage
 
-1. Create a new Flutter project
+1. [Create a new Flutter project](https://flutter.dev/docs/get-started/codelab)
 2. Copy & Paste the ```lib/``` folder and ```pubspec.yaml``` file into it
 3. Set up Google map api and Firebase
 4. Run the project
